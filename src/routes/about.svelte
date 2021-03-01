@@ -18,7 +18,7 @@
 </style>
 
 <svelte:head>
-  <title>About</title>
+  <title>About | Debauchville</title>
 </svelte:head>
 
 <div class="container">
