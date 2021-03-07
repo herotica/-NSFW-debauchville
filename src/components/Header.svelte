@@ -3,17 +3,19 @@
 
   export let segment;
 
-  let isCollapsed = true;
+  let isCollapsed = false;
 
   function toggleBar() {
     isCollapsed = !isCollapsed;
   }
 </script>
 
-<header>
-  <nav class="main d-lg-block {isCollapsed ? 'main-collapsed' : ''}">
+<header class={isCollapsed ? "header-collapsed" : ""}>
+  <nav class="main d-lg-block">
     <button on:click={toggleBar} class="btn d-none d-lg-block">{"<<"}</button>
-    <Nav {segment} />
+    {#if !isCollapsed}
+      <Nav {segment} />
+    {/if}
   </nav>
   <nav class="mob__top">
     {#if isCollapsed}<a class={segment === undefined ? "selected" : ""} href="."
@@ -47,6 +49,7 @@
     text-decoration: none;
     font-size: 22px;
     font-weight: bold;
+    color: white;
   }
   .mob__top a {
     border-bottom: 2px solid var(--red-rose);
@@ -58,16 +61,16 @@
     header {
       width: 240px;
     }
+    header.header-collapsed {
+      width: 120px;
+    }
     .mob__top {
       display: none;
     }
     .main {
       display: flex;
     }
-    .main-collapsed {
-      width: 60px;
-    }
-    .main-collapsed button {
+    .header-collapsed button {
       transform: rotate(180deg);
     }
   }

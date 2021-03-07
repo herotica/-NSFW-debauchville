@@ -17,15 +17,16 @@
   nav {
     align-items: flex-end;
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     flex: 1;
     font-family: Rubik, sans-serif;
     font-weight: 700;
-    justify-content: flex-end;
     text-transform: uppercase;
   }
 
   a {
-    color: inherit;
+    color: white;
     text-decoration: none;
     padding: 10px 5px;
     display: block;
@@ -55,6 +56,12 @@
   }
 
   .selected::before {
-    background: #fd6378;
+    background: #ffffff;
+  }
+
+  @media only screen and (min-width: 992px) {
+    nav {
+      flex-direction: column;
+    }
   }
 </style>

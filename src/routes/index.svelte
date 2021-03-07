@@ -39,28 +39,9 @@
     line-height: 1.5;
   }
 
-  figure {
-    margin: 0 1em;
-    text-align: center;
-  }
-
-  figcaption {
-    font-size: 0.8em;
-    font-style: italic;
-  }
-
-  img {
-    width: 100%;
-    max-width: 400px;
-  }
-
   @media (max-width: 1020px) {
     p {
       font-size: 1.2em;
-    }
-
-    img {
-      max-width: 300px;
     }
   }
 
