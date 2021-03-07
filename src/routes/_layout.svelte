@@ -30,6 +30,7 @@
   }
   .page {
     padding: 2em;
+    background: url("/images/wlppr-tess.webp");
   }
   @media only screen and (min-width: 992px) {
     main {
