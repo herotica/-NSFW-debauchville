@@ -3,7 +3,6 @@ const prism = require('prismjs');
 const marked = require('marked');
 const matter = require('gray-matter');
 const formatDate = require('date-fns/format');
-const readingTime = require('reading-time');
 
 // Support JSX syntax highlighting
 require('prismjs/components/prism-jsx.min');
@@ -55,18 +54,14 @@ export default () => ({
     }
 
     const html = marked(content);
-    const readingStats = readingTime(content);
-    const printReadingTime = readingStats.text;
-    const printDate = formatDate(new Date(date), 'MMMM D, YYYY');
 
     const exportFromModule = JSON.stringify({
       title: title || slug,
       slug,
       html,
+      data,
       date,
       excerpt,
-      printDate,
-      printReadingTime,
     });
 
     return {

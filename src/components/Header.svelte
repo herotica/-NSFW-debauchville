@@ -33,7 +33,6 @@
 <style>
   header {
     display: flex;
-    margin: 0 auto;
     padding: 1em;
     width: 100%;
     background: var(--red);

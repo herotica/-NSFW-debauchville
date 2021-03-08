@@ -4,10 +4,10 @@
 
 <nav>
   <a class={segment === undefined ? "selected" : ""} href=".">home</a>
-  <a class={segment === "characters" ? "selected" : ""} href="about"
+  <a class={segment === "characters" ? "selected" : ""} href="characters"
     >characters</a
   >
-  <a class={segment === "places" ? "selected" : ""} href="about">places</a>
+  <a class={segment === "places" ? "selected" : ""} href="places">places</a>
   <a rel="prefetch" class={segment === "blog" ? "selected" : ""} href="blog"
     >about/blog</a
   >

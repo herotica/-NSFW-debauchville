@@ -1,6 +1,7 @@
 import characters from './_items.js';
 
 const contents = JSON.stringify(characters.map(character => {
+  console.log('>>char', character);
   return {
     title: character.title,
     slug: character.slug,

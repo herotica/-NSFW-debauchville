@@ -1,6 +1,15 @@
 ---
 title: Aubrey Mayorly
-data: true
+age: 19
+gender: Futa
+likes: 
+    - Football
+    - Pizza
+    - Cute, Submissive girls
+    - Perky C Cups
+info:
+    Race: American
+    Bust: 32DD
 ---
 
 "My life as a dom has only just begun!"

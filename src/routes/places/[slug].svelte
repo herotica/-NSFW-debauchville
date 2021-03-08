@@ -14,7 +14,6 @@
   </script>
   
   <script>
-    import Bio from '../../components/Bio.svelte'
     export let place
   </script>
   
@@ -92,6 +91,5 @@
       {@html place.html}
     </article>
     <hr />
-    <Bio />
   </div>
   
