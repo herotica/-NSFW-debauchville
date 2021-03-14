@@ -10,6 +10,9 @@ likes:
 info:
     Race: American
     Bust: 32DD
+pictures:
+    sims: sims.webp
+thumbnail: thumb.webp
 ---
 
 "My life as a dom has only just begun!"

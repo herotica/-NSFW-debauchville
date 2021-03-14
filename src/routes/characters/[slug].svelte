@@ -14,8 +14,9 @@
 </script>
 
 <script>
+  import CharacterImages from "../../components/CharacterImages.svelte";
   export let character;
-  console.log('>>C', character);
+  console.log(">>C", character);
 </script>
 
 <svelte:head>
@@ -60,18 +61,22 @@
   <meta name="twitter:label2" value="Reading Time" />
 </svelte:head>
 
-<header>
-  <h1>{character.title}</h1>
-  <h3>Xcharacter shortinfo</h3>
-</header>
 <div class="container">
-  <aside class="content" />
-    <div class="image-slider">
-      Images
-    </div>
-    <h4>Info</h4>
-
-  <div>
+  <aside class="content">
+    <CharacterImages pictures={character.data.pictures} characterSlug={character.slug} />
+    <ul class="info-items">
+      <li><span>Age:</span><span>{character.data.age}</span></li>
+      <li><span>Gender:</span><span>{character.data.gender}</span></li>
+      <li><span>Likes:</span><span>{character.data.likes.join(", ")}</span></li>
+      {#each Object.entries(character.data.info) as [key, value]}
+        <li><span>{key}</span><span>{value}</span></li>
+      {/each}
+    </ul>
+  </aside>
+  <div class="info">
+    <header>
+      <h2>{character.title}</h2>
+    </header>
     <h4>Contents</h4>
     {@html character.html}
   </div>
@@ -81,17 +86,46 @@
   header {
     text-align: center;
   }
-
-  header h1 {
-    margin-bottom: 0.7em;
+  h2 {
+    margin: 0 0 1.6em 0;
+    font-size: 1.8em;
   }
-  .container {
-    display: flex;
-    flex-direction: column;
+  .info,
+  aside.content {
+    width: 100%;
+  }
+  aside.content {
+    border: 1px solid var(--soft-rose);
+    background: rgba(255, 179, 203, 0.5);
+    padding: 0.5em;
+    font-size: 13px;
+  }
+  ul.info-items {
+    list-style: none;
+    font-size: 13px;
+  }
+  ul.info-items li {
+    margin: 0.3rem 0;
+  }
+  ul.info-items li span:first-child {
+    width: 40%;
+    display: inline-block;
+  }
+  ul.info-items li span:nth-child(2) {
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
   }
   @media only screen and (min-width: 992px) {
-    .container {
-      flex-direction: row;
+    /* .info,
+    aside.content {
+      width: 50%;
+    } */
+    aside.content {
+      float: right;
+      width: 50%;
+      padding: 0.5em 1em;
+      margin-left: 2em;
     }
   }
 </style>
