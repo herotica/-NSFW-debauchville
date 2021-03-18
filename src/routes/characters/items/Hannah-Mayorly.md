@@ -1,7 +1,8 @@
 ---
 title: Hannah Mayorly
-age: 17
+age: 18
 gender: Female
+Job: Student
 likes: 
     - Paintball
     - Llamas
@@ -9,7 +10,7 @@ likes:
     - Big veiny cocks
 info:
     Race: American
-    Bust: 30C
+    Bust: 28C
 pictures:
     sims: sims.webp
 thumbnail: thumb.webp

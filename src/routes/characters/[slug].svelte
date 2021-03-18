@@ -70,6 +70,7 @@
     <ul class="info-items">
       <li><span>Age:</span><span>{character.data.age}</span></li>
       <li><span>Gender:</span><span>{character.data.gender}</span></li>
+      <li><span>Job:</span><span>{character.data.job}</span></li>
       <li><span>Likes:</span><span>{character.data.likes.join(", ")}</span></li>
       {#each Object.entries(character.data.info) as [key, value]}
         <li><span>{key}</span><span>{value}</span></li>

@@ -2,6 +2,7 @@
 title: Mistress Camille
 age: 35
 gender: Futa
+Job: Domme
 likes: 
     - Pedicures
     - Slayer (band)

@@ -1,7 +1,8 @@
 ---
 title: Aubrey Mayorly
-age: 19
+age: 20
 gender: Futa
+Job: Student
 likes: 
     - Football
     - Pizza
