@@ -16,7 +16,6 @@
 <script>
   import CharacterImages from "../../components/CharacterImages.svelte";
   export let character;
-  console.log(">>C", character);
 </script>
 
 <svelte:head>
@@ -77,7 +76,7 @@
       {/each}
     </ul>
   </aside>
-  <div class="info">
+  <div class="info" id="info" data-slug="{character.slug}">
     <header>
       <h2>{character.title}</h2>
     </header>
@@ -88,10 +87,10 @@
       /**
        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-      
+      var slug= document.getElementById("info").dataset.slug;
     var disqus_config = function () {
-    this.page.url = "character/" + character.slug;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = "character--" + character.slug; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = "character/" + slug;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "character--" + slug; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
       (function () {
         // DON'T EDIT BELOW THIS LINE
