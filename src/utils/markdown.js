@@ -1,24 +1,25 @@
-const path = require('path');
-const prism = require('prismjs');
-const marked = require('marked');
-const matter = require('gray-matter');
-const formatDate = require('date-fns/format');
+const path = require("path");
+const fs = require("fs");
+const prism = require("prismjs");
+const marked = require("marked");
+const matter = require("gray-matter");
+const formatDate = require("date-fns/format");
 
 // Support JSX syntax highlighting
-require('prismjs/components/prism-jsx.min');
+require("prismjs/components/prism-jsx.min");
 
-const EXCERPT_SEPARATOR = '<!-- more -->';
+const EXCERPT_SEPARATOR = "<!-- more -->";
 const renderer = new marked.Renderer();
 const linkRenderer = renderer.link;
 renderer.link = (href, title, text) => {
   const html = linkRenderer.call(renderer, href, title, text);
 
-  if (href.indexOf('/') === 0) {
+  if (href.indexOf("/") === 0) {
     // Do not open internal links on new tab
     return html;
-  } else if (href.indexOf('#') === 0) {
+  } else if (href.indexOf("#") === 0) {
     // Handle hash links to internal elements
-    const html = linkRenderer.call(renderer, 'javascript:;', title, text);
+    const html = linkRenderer.call(renderer, "javascript:;", title, text);
     return html.replace(
       /^<a /,
       `<a onclick="document.location.hash='${href.substr(1)}';" `
@@ -36,6 +37,11 @@ renderer.code = (code, language) => {
 
 marked.setOptions({ renderer });
 
+const getFileUpdatedDate = (path) => {
+  const stats = fs.statSync(path);
+  return stats.mtime;
+};
+
 export default () => ({
   transform(md, id) {
     if (!/\.md$/.test(id)) return null;
@@ -43,9 +49,9 @@ export default () => ({
     const fileName = path.basename(id);
     const { data, content: rawContent } = matter(md);
     const { title, date } = data;
-    const slug = fileName.split('.')[0];
+    const slug = fileName.split(".")[0];
     let content = rawContent;
-    let excerpt = '';
+    let excerpt = "";
 
     if (rawContent.indexOf(EXCERPT_SEPARATOR) !== -1) {
       const splittedContent = rawContent.split(EXCERPT_SEPARATOR);
@@ -62,11 +68,12 @@ export default () => ({
       data,
       date,
       excerpt,
+      editDate: getFileUpdatedDate(id),
     });
 
     return {
       code: `export default ${exportFromModule}`,
-      map: { mappings: '' },
+      map: { mappings: "" },
     };
   },
 });

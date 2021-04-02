@@ -11,6 +11,7 @@ likes:
 info:
     Race: Bulgarian
     Bust: 34E
+    Cock: 10' 2"
 pictures:
     sims: sims.webp
     sims-nude: sims-nude.webp
