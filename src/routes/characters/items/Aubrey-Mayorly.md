@@ -11,6 +11,7 @@ likes:
 info:
     Race: American
     Bust: 32DD
+    Cock: 9' 1"
 pictures:
     sims: sims.webp
 thumbnail: thumb.webp

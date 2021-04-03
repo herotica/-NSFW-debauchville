@@ -11,6 +11,7 @@ likes:
 info:
     Race: British
     Bust: 28D
+    Cock: 11' 0"
 pictures:
     sims: sims.webp
     sims-nude: sims-nude.webp
