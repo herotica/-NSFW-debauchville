@@ -36,10 +36,10 @@
 </svelte:head>
 
 <div class="container">
-  <h2>Recently updated</h2>
-  <div class="d-flex">
+  <h2 class="mb-3">Recently updated</h2>
+  <div class="d-flex mb-3">
     {#each mostRecent as recentChar}
-      <a href="characters/{recentChar.slug}"
+      <a class="recent-box" href="characters/{recentChar.slug}"
         ><img
           class="thumbnail"
           src="/characters/{recentChar.slug}/{recentChar.thumbnail}"
@@ -51,25 +51,24 @@
   </div>
 
   <h2>Alpabetical</h2>
-  {#each Object.keys(letterObj) as letter}
-    <h2>{letter}</h2>
-    {#each letterObj[letter] as character, index}
-      {#if index}
-        <hr />
-      {/if}
-      <div class="post-item">
-        <h2>
-          <a rel="prefetch" href="characters/{character.slug}"
-            >{character.title}</a
-          >
-        </h2>
-        <p>{character.excerpt}</p>
-        <div class="post-item-footer">
-          <span class="post-item-date">— {character.printDate}</span>
+  <div class="list-col">
+    {#each Object.keys(letterObj) as letter}
+      <h2 class="mb-2">{letter}</h2>
+      {#each letterObj[letter] as character, index}
+        {#if index}
+          <hr />
+        {/if}
+        <div class="post-item">
+          <h6>
+            <a rel="prefetch" href="characters/{character.slug}"
+              >{character.title}</a
+            >
+          </h6>
+          <p class="mt-0">[{character.gender}]</p>
         </div>
-      </div>
+      {/each}
     {/each}
-  {/each}
+  </div>
 </div>
 
 <style>
@@ -87,10 +86,26 @@
   }
 
   hr {
-    margin: 60px auto;
+    margin: 5px auto;
   }
   img.thumbnail {
-    height: 80px;
-    width: 80px;
+    height: 120px;
+    width: 120px;
+    border: 1px solid var(--soft-rose);
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  a.recent-box {
+    margin: 10px 20px;
+    max-width: 122px;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  div.list-col {
+    column-count: 2;
+    column-gap: 28px;
+  }
+  div.list-col a {
+    text-decoration: none;
   }
 </style>
