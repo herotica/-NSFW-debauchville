@@ -12,6 +12,14 @@
       disregard to social conventions and a hedonistic attitude to all things
       sexual. 100% NSFW.
     </p>
+    <h5>Sims Characters</h5>
+    <p>
+      Until Characters are better represented by artists or hopefully some Daz
+      3d models, they will begin as Sims 4 characters, most should be available
+      for download at <a
+        href="https://mega.nz/folder/iggwzbiZ#IUYjMaLsBfzPF79-XZVjVQ">Mega</a
+      > they will be listed by family name, otherwise check a characters bio under simspack
+    </p>
   </div>
 </div>
 
