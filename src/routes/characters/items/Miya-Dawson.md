@@ -22,6 +22,6 @@ thumbnail: thumb.webp
 
 ### Relationships
 
-##### Mother
+##### [Mother](/characters/Julie-Dawson)
 
 Julie Dawson

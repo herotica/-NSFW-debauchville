@@ -21,6 +21,6 @@ thumbnail: thumb.webp
 
 ### Relationships
 
-##### Domme
+##### [Domme](/characters/Mistress-Camille)
 
 Mistress Camille is her favoured Domme, and one she visits very often.

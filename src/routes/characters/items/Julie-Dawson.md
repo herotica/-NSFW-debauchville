@@ -24,6 +24,6 @@ Julie is an ex stock broker who has used her large winnings to pamper herself, a
 
 ### Relationships
 
-##### Daughter
+##### [Daughter](/characters/Miya-Dawson)
 
 Her wild, free and arrogant daughter, Miya, is her pride and joy, she is especially proud of her gentle, pampered beauty.

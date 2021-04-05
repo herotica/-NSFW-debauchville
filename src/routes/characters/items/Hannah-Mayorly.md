@@ -26,6 +26,6 @@ pretends like her mother to be a prude and acts like a respectful young miss at 
 
 Elizabeth Mayorly is Aubrey's distant and somewhat self absorbed mother, she loves her daughters, but spends most of her time tending to her own needs. She is proud of her daughters strong will and attractive looks. She is a futa, but has birthed both daughters from unknown partners, something she is somewhat ashamed of, her futa genes have only pass onto Aubrey, bypasing young Hannah.
 
-##### Sister
+##### [Sister](/characters/Aubrey-Mayorly)
 
 Aubrey Mayorly

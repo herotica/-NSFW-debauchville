@@ -21,6 +21,6 @@ thumbnail: thumb.webp
 
 ### Relationships
 
-##### Wife
+##### [Wife](/characters/Mary-Winters)
 
 Married to her tender carer & lover Mary.

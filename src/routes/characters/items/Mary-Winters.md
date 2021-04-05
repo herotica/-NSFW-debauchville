@@ -22,6 +22,6 @@ thumbnail: thumb.webp
 
 ### Relationships
 
-##### Wife
+##### [Wife](/characters/Tiffany-Winters)
 
 Happily married to her love, Tiffany Winters, she is very protective of her wife, whose soft and amicable nature is quickly soured by stress. Mary is a loving and devoted wife, who finds her wife the most beautiful creature she knows, though as she does not like to be domm'd, Tiffany on occasion lets her loose on third partner, with Mary freeing her nastier side and Tiffany happily cleaning up any cum, which after all as the wife only she is allowed to keep.
