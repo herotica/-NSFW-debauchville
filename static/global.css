@@ -14,7 +14,7 @@
 
 body {
   margin: 0;
-  font-family: 'Signika', sans-serif;
+  font-family: "Signika", sans-serif;
   font-size: 15px;
   line-height: 1.6;
   color: white;
@@ -26,7 +26,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   line-height: 1.2;
   margin: 0 0 0.5em 0;
@@ -219,4 +219,30 @@ td {
 /* b4 */
 .btn {
   background-color: var(--red-rose);
+}
+/* story */
+
+div.speech-right,
+div.speech-left {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-style: italic;
+  padding: 0 50px;
+  margin: 20px 0;
+}
+div.speech-left img {
+  height: 80px;
+  margin-right: 20px;
+}
+div.speech-right {
+  justify-content: flex-end;
+}
+div.speech-right img {
+  height: 80px;
+  order: 1;
+  margin-left: 20px;
+}
+img.story-pic {
+  margin: 10px 0;
 }

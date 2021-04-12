@@ -8,6 +8,7 @@
     >characters</a
   >
   <a class={segment === "places" ? "selected" : ""} href="places">places</a>
+  <a class={segment === "stories" ? "selected" : ""} href="stories">stories</a>
   <a rel="prefetch" class={segment === "blog" ? "selected" : ""} href="blog"
     >about/blog</a
   >
