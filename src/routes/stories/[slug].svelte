@@ -86,7 +86,7 @@
     <h1>{story.title}</h1>
     <hr />
   </header>
-  <div class="container">
+  <div class="container-md">
     <article class="content">
       {@html story.html}
     </article>

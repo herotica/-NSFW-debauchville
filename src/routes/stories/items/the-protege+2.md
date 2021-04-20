@@ -69,6 +69,8 @@ Camille slowly tipped the water over her shirt, the black lace bra now exposed a
 
 Aubrey, remembering her commands, nodded once. Miss Davies now moaned loudly, Camille pressed he own chest against her back, and slid her groping hands under the lace, working their way to her tender nipples as she moaned even louder.
 
+<img class="story-pic" src="/stories/protege/protege-2-3.webp" />
+
 Mistress Camille asks, as one hands slips into her charges wet, silk underwear, softly teasing her clit.
 
 <div class="speech-right">
@@ -143,7 +145,11 @@ She offers teasingly, Miss Davies eyes beg meekly, but eagerly.
     "You will have me deep in you soon enough, but for now you must know how horribly you have been teasing my friend with that seductive body of yours, such teasing cannot be allowed, as punishment you will drain Aubrey's balls, and when she delivers it, swallow the large portion of fresh cum you have making her balls fill with."
 </div>
 
-Aubrey bit her lip and restrained her eagerness, as Miss Davies meekly turned, she slowly uncrossed her legs, revealing her pumping and rock hard cock, which she tapped commandingly. As Miss davies crawled, over, Aubrey stroked her hair, then used both her hands to need the supple, submissive treat before her's heavy bust. Miss Davies moaned, and moved beneath her touch, Aubrey's cock stiffened and waved as a flood of hunger burned through her hungry shaft. Sliding a hand through the woman's hair, Aubrey guided her mouth down to the tip.
+Aubrey bit her lip and restrained her eagerness, as Miss Davies meekly turned, she slowly uncrossed her legs, revealing her pumping and rock hard cock, which she tapped commandingly.
+
+<img class="story-pic" src="/stories/protege/protege-2-4.webp" />
+
+As Miss davies crawled, over, Aubrey stroked her hair, then used both her hands to need the supple, submissive treat before her's heavy bust. Miss Davies moaned, and moved beneath her touch, Aubrey's cock stiffened and waved as a flood of hunger burned through her hungry shaft. Sliding a hand through the woman's hair, Aubrey guided her mouth down to the tip.
 
 <div class="speech-left">
     <img src="/characters/Aubrey-Mayorly/thumb.webp">
@@ -158,6 +164,8 @@ She commanded, and Miss Davies soft lips engulfed the fat glans, sucking it gent
 </div>
 
 Aubrey pulled her cock back and guided Miss Davies head, running her wet tongue repeatedly up the shaft.
+
+<img class="story-pic" src="/stories/protege/protege-2-5.webp" />
 
 <div class="speech-left">
     <img src="/characters/Aubrey-Mayorly/thumb.webp">
@@ -182,12 +190,17 @@ She commanded
 
 Miss Davies coughed up some of the thick spit coating her mouth, the obediently opened her mouth, Aubrey slid her fat girthy rod back in and pulled her head down roughly, with some effort, and a lot of gagging, she pulled Miss Davies to her base. Holding her there she looked into the lustful woman's eyes.
 
+<img class="story-pic" src="/stories/protege/protege-2-6.webp" />
+
 <div class="speech-left">
     <img src="/characters/Aubrey-Mayorly/thumb.webp">
     "Your a good little slut aren't you, I'm glad you know your throat is for cocks and not for talking"
 </div>
 
 Aubrey eased Miss Davies head back, then slowly returned to pumping her on her hard cock, fucking the slavish slut's throat as deeply as she could. She continued fucking her face until she felt her thigh being pressed and groaning in lust she slowly let her head free, but this time left her swollen glans resting on the woman's tongue.
+
+!!
+<!-- fuck into chair!! -->
 
 <div class="speech-left">
     <img src="/characters/Aubrey-Mayorly/thumb.webp">
@@ -214,12 +227,14 @@ directed Aubrey, her hand softly grazing her shaft at the woman's beautifully su
 
 Miss Davies opened her mouth to reveal a frothy mess, a dozen thick strands of cum connecting her tongue to the roof her mouth. The two dommes took a good look at her fine work, Mistress Camille turned and gave Aubrey a deep wet kiss, before smiling down at Miss Davies.
 
+<img class="story-pic" src="/stories/protege/protege-2-8.webp" />
+
 <div class="speech-right">
     <img src="/characters/Mistress-Camille/thumb.webp">
     "Good little pet, I'm so excited to see you finally devour Aubrey's lovely gift."
 </div>
 
-Aubrey nodded at the woman and she obligingly consumed Aubrey's giant river of cum, taking a good four gulps to get the thick mess into her, breathing deeply she offered an almost clean mouth up to the two dommes. Mistress Camille grabbed her softly by the hair and examined her mouth deeply before giving her a humiliating slap, Miss Davies shuddered with a mixture of displeasure and arousal, before looking up at her mistress with slavish eyes.
+Aubrey nodded at the woman and she obligingly consumed Aubrey's foamy mouthful of cum, taking a good three gulps to get the thick mess into her, breathing deeply she offered an almost clean mouth up to the two dommes. Mistress Camille grabbed her softly by the hair and examined her mouth deeply before giving her a humiliating slap, Miss Davies shuddered with a mixture of displeasure and arousal, before looking up at her mistress with slavish eyes.
 
 <div class="speech-right">
     <img src="/characters/Mistress-Camille/thumb.webp">
@@ -241,6 +256,10 @@ Mistress Camille smiled and eyed up the beautiful woman's elegant form.
 </div>
 
 Camille pushed her onto the bed and began kneading her buttcheeks, then sliding her cock between them, she warmed herself up.
+
+!!
+<!-- groping on knees -->
+<img class="story-pic" src="/stories/protege/protege-2-9.webp" />
 
 <div class="speech-right">
     <img src="/characters/Mistress-Camille/thumb.webp">
@@ -285,7 +304,9 @@ She teased.
     "N.. no. p.. please, c.. c.. can't think, I.. I.. want your seed, .., more than anything, please cum in me!!!"
 </div>
 
-The woman screamed in ecstasy pulled her up to her feet, holding her by the neck and still pounding away furiously. Mistress Camille bent her back, Miss Davies soft supple form, bending like a dancer, till she kiss her, forcing her wet tongue into the woman's sticky, hungering mouth, their tongues dancing sloppy, with Camille's dominating the space and slathering Miss Davies gentle tongue with saliva.
+The woman screamed in ecstasy pulled her up to her knees, holding her by the neck and still pounding away furiously. Mistress Camille bent her back, Miss Davies soft supple form, bending like a dancer, till she kiss her, forcing her wet tongue into the woman's sticky, hungering mouth, their tongues dancing sloppy, with Camille's dominating the space and slathering Miss Davies gentle tongue with saliva.
+
+<img class="story-pic" src="/stories/protege/protege-2-10.webp" />
 
 Again she pushed her into the bed, this time she pressed Miss Davies face into the duvet, and pumped her pulsing rod roughly three times into her sopping wet vagina, the woman's muffled screams of delight barely audible, but her clenched scratching hands tugged harshly on the fabric. Releasing her and turning her onto her side, Mistress Camille slowly slipped a thumb into Miss Davies pleading mouth, she suckled it lustfully as her eyes glazed over in pleasure at the mesmerizing bouncing of Mistress Camille's perky chest.
 
@@ -300,6 +321,8 @@ Mistress Camille asked huskily. Miss Davies nodded vigorously her hands now grip
     <img src="/characters/Nina-Davies/thumb.webp">
     "It's so warm, uuuuuugggghhhh, theres so much, th.. th.. thank you."
 </div>
+
+<img class="story-pic" src="/stories/protege/protege-2-11.webp" />
 
 Mistress Camille leant forward as the last of a large load of creamy cum finished dripping into the woman's warm hole, and gave Miss Davies a deep lustful kiss. Moving past her leg, she gave the woman a deep and tender hug as she slowly fell into a satisfied sleep, she checked her breath, and confirming her slumber, gently peeled away.
 
