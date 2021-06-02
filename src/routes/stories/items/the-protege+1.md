@@ -8,7 +8,7 @@ Mistress Camille had decided to attend the recent womans football game, not out 
 
 But that was passed, she couldn't hold Melissa back, and had decided that what she needed was fresh young clay to mould, and hoped that this display of brutality might offer some opportunities. Not that any chance at seeing a bunch of fit young women duking it out was something to miss, especially with these new tighter uniforms, the volleyball pants alone where a touch of genius.
 
-Today the Debauchville devils where playing the Eroticaford eagles, some of the girls out today where utterly stunning, she reminded herself to focus on her objective, though she wasn't likely to try throwing a few hungry looks at some of the girls. Last time she was here she hadn't seen any standout dominant girls, but overall the day had been a success when she'd helped one of the losing teams girls work of some anger with her in the bathroom. Exercise seemed to have quite the aphrodisiac effect on some of there nubile young sirens. That was a month ago, but with a new school season, the Debauchville devils has some fresh new meat, and she was eager to see what was on offer.
+Today the Debauchville devils where playing the cumford crowns, some of the girls out today where utterly stunning, she reminded herself to focus on her objective, though she wasn't likely to try throwing a few hungry looks at some of the girls. Last time she was here she hadn't seen any standout dominant girls, but overall the day had been a success when she'd helped one of the losing teams girls work of some anger with her in the bathroom. Exercise seemed to have quite the aphrodisiac effect on some of there nubile young sirens. That was a month ago, but with a new school season, the Debauchville devils has some fresh new meat, and she was eager to see what was on offer.
 
 The game went off to a quick start, both teams where eager and energetic, the Debuachville's new team where excellent, and a few where arousingly beautiful. But one stood out among the rest, a tough, red head, with a tendency to 'accidentally' barrel into other players. She was just Camille's type, youthful, strongheaded, and willing to push others around, she reminded her of her old apprentice, but maybe even a little prettier. She cursed, remembering that she would need to build this pretty little creature up, which her cock felt was as shame, as bringing girls down to be her willing sex slave was a passion, and a job for her. She watched the girl intently, reviewing her every move, caught between the need to for an apprentice, and her growing lust for stuffing her big cock down her throat, she pulled her erotic desires to the side, and tried to reframe her wandering mind.
 
@@ -67,7 +67,7 @@ Fucking the girl vigorously she began to achieve her peak, thankfully Ishaani wa
 Ishaani nodded with a smile, kissing the glans, she began to pump Aubrey's thick shaft, eventually finishing her. Aubrey growled as she came, and admired the thick white strands she sprayed onto Ishaani's breasts, contrasting beautifully with her shiny brown skin. thick spurts of warm cum coated her pert, youthful and well rounded tits, Ishaani looked up happily.
 
 "Thank you, that was, it was, indescribable, thank you." Aubrey nodded.
-"If I'm ever in Eroticaford, I'll look you up" Ishaani blushed.
+"If I'm ever in cumford, I'll look you up" Ishaani blushed.
 "I'd love that, um, can I give you my number?"
 "Sure" Aubrey smiled.
 
