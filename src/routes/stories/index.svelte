@@ -26,7 +26,7 @@
 
 <script>
   export let stories;
-        console.log("stories", stories);
+  console.log("stories", stories);
 </script>
 
 <svelte:head>
@@ -41,13 +41,13 @@
     {/if}
     <div class="post-item">
       <h2>
-        <a rel="prefetch" href="stories/{story.chapters[0].slug}"
+        <a rel="prefetch" href="stories/{story.chapters[0].info.slug}"
           >{story.title}</a
         >
       </h2>
       {#if story.chapters.length === 1}
         <h5>
-          <a rel="prefetch" href="stories/{story.chapters[0].slug}"
+          <a rel="prefetch" href="stories/{story.chapters[0].info.slug}"
             >{story.title}</a
           >
         </h5>
@@ -67,5 +67,11 @@
 <style>
   hr {
     margin: 60px auto;
+  }
+  h2 {
+    margin-bottom: 0.6em;
+  }
+  h2 a {
+    text-decoration: none;
   }
 </style>
