@@ -3,13 +3,30 @@
     return this.fetch(`stories.json`)
       .then((r) => r.json())
       .then((stories) => {
-        return { stories };
+        const storieNames = [];
+        const returnObj = [];
+
+        stories.forEach((story) => {
+          const indexOf = storieNames.indexOf(story.title);
+          const chapter = story.slug;
+          if (indexOf === -1) {
+            storieNames.push(story.title);
+            returnObj.push({
+              title: story.title,
+              chapters: [{ chapter, info: story }],
+            });
+          } else {
+            returnObj[indexOf].chapters.push({ chapter, info: story });
+          }
+        });
+        return { stories: returnObj };
       });
   }
 </script>
 
 <script>
   export let stories;
+        console.log("stories", stories);
 </script>
 
 <svelte:head>
@@ -24,30 +41,30 @@
     {/if}
     <div class="post-item">
       <h2>
-        <a rel="prefetch" href="stories/{story.slug}">{story.title}</a>
+        <a rel="prefetch" href="stories/{story.chapters[0].slug}"
+          >{story.title}</a
+        >
       </h2>
-      <p>{story.excerpt}</p>
-      <div class="post-item-footer">
-        <span class="post-item-date">— {story.printDate}</span>
-      </div>
+      {#if story.chapters.length === 1}
+        <h5>
+          <a rel="prefetch" href="stories/{story.chapters[0].slug}"
+            >{story.title}</a
+          >
+        </h5>
+      {:else}
+        {#each story.chapters as chapter, index}
+          <h5>
+            <a rel="prefetch" href="stories/{chapter.info.slug}">
+              {chapter.info.data.subtitle}
+            </a>
+          </h5>
+        {/each}
+      {/if}
     </div>
   {/each}
 </div>
 
 <style>
-  h2,
-  .post-item-footer {
-    font-family: Rubik, sans-serif;
-    font-weight: 700;
-  }
-
-  .post-item-date {
-    color: #aaa;
-    text-align: left;
-    text-transform: uppercase;
-    margin-right: 16px;
-  }
-
   hr {
     margin: 60px auto;
   }
