@@ -1,4 +1,6 @@
 <script context="module">
+  import ChapterRow from "./component/chapter-row.svelte";
+
   export function preload({ params, query }) {
     return this.fetch(`stories.json`)
       .then((r) => r.json())
@@ -46,18 +48,10 @@
         >
       </h2>
       {#if story.chapters.length === 1}
-        <h5>
-          <a rel="prefetch" href="stories/{story.chapters[0].info.slug}"
-            >{story.title}</a
-          >
-        </h5>
+        <ChapterRow chapter={story.chapters[0]} />
       {:else}
-        {#each story.chapters as chapter, index}
-          <h5>
-            <a rel="prefetch" href="stories/{chapter.info.slug}">
-              {chapter.info.data.subtitle}
-            </a>
-          </h5>
+        {#each story.chapters as chapter}
+        <ChapterRow chapter={chapter} />
         {/each}
       {/if}
     </div>
@@ -71,7 +65,16 @@
   h2 {
     margin-bottom: 0.6em;
   }
-  h2 a {
+  a {
     text-decoration: none;
+  }
+  .chapter-info {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+  }
+  .chapter-info img {
+    max-height: 60px;
+    margin: 0 10px;
   }
 </style>

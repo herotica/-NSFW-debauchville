@@ -2,6 +2,10 @@
 title: The Protege
 subtitle: Chapter 2 - Basics
 thumbnail: protege.webp
+cast:
+    - "Mistress-Camille"
+    - "Aubrey-Mayorly"
+    - "Nina-Davies"
 ---
 
 <div class="speech-right">

@@ -6,6 +6,7 @@ const contents = JSON.stringify(stories.map(story => {
     data: story.data,
     slug: story.slug,
     thumbnail: story.thumbnail,
+    cast: story.cast,
   };
 }));
 

@@ -2,6 +2,12 @@
 title: The Pool Party
 subtitle: Pool Party
 thumbnail: /characters/Aubrey-Mayorly/thumb.webp
+cast:
+    - "Gina-Leery"
+    - "Ella-Maddox"
+    - "Maddox-Twins"
+    - "Hannah-Mayorly"
+    - "Miya-Dawson"
 ---
 
 ### Pool Party

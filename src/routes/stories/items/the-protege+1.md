@@ -2,6 +2,9 @@
 title: The Protege
 subtitle: Chapter 1 - Findings
 thumbnail: protege.webp
+cast:
+    - "Mistress-Camille"
+    - "Aubrey-Mayorly"
 ---
 
 Mistress Camille had decided to attend the recent womans football game, not out of an interest in sport, but more of her belief it was a fertile ground for fine young woman to learn the basics of dominance. She was ready for a new apprentice, her last having moved to another city, flying the nest she had called it, it was a shame, they worked together well, she had even lost business as some of the local housewives had adored being roughly handled by 2 fit, powerful and dominant Futa's.
