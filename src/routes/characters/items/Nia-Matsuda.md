@@ -19,7 +19,7 @@ thumbnail: thumb.webp
 
 ""
 
-
+Nia is an adorable and perky young girly girl who loves her shopping and makeup, especially when she goes with her aunt Yume.
 
 ### Relationships
 
