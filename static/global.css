@@ -244,5 +244,6 @@ div.speech-right img {
   margin-left: 20px;
 }
 img.story-pic {
-  margin: 10px 0;
+  margin: 10px auto;
+  max-height: 600px;
 }
