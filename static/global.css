@@ -222,6 +222,7 @@ td {
 }
 /* story */
 
+div.image-title,
 div.speech-right,
 div.speech-left {
   display: flex;
@@ -231,6 +232,7 @@ div.speech-left {
   padding: 0 50px;
   margin: 20px 0;
 }
+div.image-title img,
 div.speech-left img {
   height: 80px;
   margin-right: 20px;
@@ -242,6 +244,16 @@ div.speech-right img {
   height: 80px;
   order: 1;
   margin-left: 20px;
+}
+div.image-title {
+  padding: 0 30px;
+    margin: 10px 0;
+}
+div.image-title h5 {
+  margin: 0;
+}
+div.image-title a {
+  text-decoration: none;
 }
 img.story-pic {
   margin: 10px auto;

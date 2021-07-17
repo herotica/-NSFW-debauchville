@@ -28,6 +28,10 @@ thumbnail: thumb.webp
 
 Ella
 
-##### [Daughter - Twins](/characters/Maddox-Twins)
+##### [Sister](/characters/Scarlett-Maddox)
 
-Twins
+Scarlett
+
+##### [Sister](/characters/Ewelina-Maddox)
+
+Ewelina
