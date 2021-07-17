@@ -26,14 +26,23 @@ Sayuri runs a prestigious school, where she has a reputation for helping bring t
 
 ### Relationships
 
-##### [Wife](/characters/Zara-Matsuda)
+<div class="image-title">
+    <img src="/characters/Zara-Matsuda/thumb.webp">
+    <h5 id="twin"><a href="/characters/Zara-Matsuda">Wife</a></h5>
+</div>
 
 Sayuri's wife Zara is a beautiful Korean she fell in love with at a teaching conference in Korea, she was wowed by her patience and quiet intellect, they romanced over their great hope for the next generation. Zara helped Sayuri be more aware of her dominant persona, helping her become far more adept at working with others without causing upset. Sayuri helped Zara come out of her shell, especially sexually, where she has found great attraction in letting Sayuri have illicit affairs, as long as pictures and descriptions are provided after.
 
-##### [Sister](/characters/Yume-Matsuda)
+<div class="image-title">
+    <img src="/characters/Yume-Matsuda/thumb.webp">
+    <h5 id="twin"><a href="/characters/Yume-Matsuda">Sister</a></h5>
+</div>
 
 Sayuri's sister Yume, their relationship is stormy, they love each other dearly, but a competitive streak has often resulted in many a harsh word said. Zara spends a lot of time trying to get the two to reconcile.
 
-##### [Daughter](/characters/Nia-Matsuda)
+<div class="image-title">
+    <img src="/characters/Nia-Matsuda/thumb.webp">
+    <h5 id="twin"><a href="/characters/Nia-Matsuda">Daughter</a></h5>
+</div>
 
 Sayuri & Zara's daughter Nia, a kind hearted and emotional girl, she is easily led, despite her mother's constant reproaches to be harder and less sensitive, despite this she has a warm relationship with both parents. Although her favorite family member is Yume, with whom she loves to go shopping and taking long walks in nature, they keep no secrets from each other.
