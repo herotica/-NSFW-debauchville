@@ -82,7 +82,6 @@
   </svelte:head>
   
   <header>
-    <p>{story.printDate} ~ {story.printReadingTime}</p>
     <h1>{story.title}</h1>
     <hr />
   </header>
