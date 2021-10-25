@@ -28,10 +28,10 @@ thumbnail: thumb.webp
 
 Ella
 
-##### [Sister](/characters/Scarlett-Maddox)
+##### [Daughter - Sister](/characters/Scarlett-Maddox)
 
 Scarlett
 
-##### [Sister](/characters/Ewelina-Maddox)
+##### [Daughter - Sister](/characters/Ewelina-Maddox)
 
 Ewelina

@@ -11,7 +11,7 @@ cast:
 
 ### Mother Daughter Detention
 
-All thanks to Miss Dawson's behaviour, Nia was in for a interesting night. With a third detention this month, Sayuri had decided if the girl was going to be keeping her up after hours, she might as well be made use of, her mother had been planning to teach her a few things anyway.
+All thanks to Miss Dawson's behavior, Nia was in for a interesting night. With a third detention this month, Sayuri had decided if the girl was going to be keeping her up after hours, she might as well be made use of, her mother had been planning to teach her a few things anyway.
 
 --
 

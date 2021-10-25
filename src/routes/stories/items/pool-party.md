@@ -3,12 +3,12 @@ title: The Pool Party
 subtitle: Pool Party
 thumbnail: /characters/Aubrey-Mayorly/thumb.webp
 cast:
-    - "Gina-Leery"
-    - "Ella-Maddox"
-    - "Ewelina-Maddox"
-    - "Scarlett-Maddox"
-    - "Hannah-Mayorly"
-    - "Miya-Dawson"
+  - "Gina-Leery"
+  - "Ella-Maddox"
+  - "Ewelina-Maddox"
+  - "Scarlett-Maddox"
+  - "Hannah-Mayorly"
+  - "Miya-Dawson"
 ---
 
 ### Pool Party
@@ -298,7 +298,7 @@ Miya popped her head out from between the girls legs and turned to Gina smiling.
 
 <div class="speech-right">
     <img src="/characters/Miya-Dawson/thumb.webp">
-  "Both twins, thats too hot for me to get in the way off. Ella, your pussy lips ready for my tongue?"
+  "Both twins, thats too hot for me to get in the way of. Ella, your pussy lips ready for my tongue?"
 </div>
 
 Ella gave Hannah's quivering wet lips a soft kiss, and laid her down slowly before turning over to eye-fuck Miya.
@@ -308,22 +308,309 @@ Ella gave Hannah's quivering wet lips a soft kiss, and laid her down slowly befo
   "I've been waiting, god I wanna see that little mouth of yours buried between my thighs!"
 </div>
 
+<div class="speech-right">
+    <img src="/characters/Hannah-Mayorly/thumb.webp">
+  "You two are too sexy, I need to watch!."
+</div>
 
+<div class="speech-right">
+    <img src="/characters/Ewelina-Maddox/thumb.webp">
+  "I need to learn a bit from Miya's legendary technique, Hannah, help me lift my sister up to a good angle."
+</div>
+
+<div class="speech-left">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+  "You've really grown into a massive perve sis, thanks!"
+</div>
+
+The two girls hoisted Ella up as Miya went to her knees and began kissing Ella's soft, wet clit, all three girls moaned, Ella tilted her head and pulled Hannah in, swapping spit and french kissing the beautiful red haired teen. Ewelina admired Miya's stunning cunnilingual technique, before her lust grew and she began to kiss her sisters neck, Miya's eyes softened at the erotic display unfolding above her. Ella pulled back.
+
+<div class="speech-right">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+  "Jesus Ewelina you weirdo, ok I'll admit your good, but thats all your allowed to do."
+</div>
+
+Ewelina shrugged and continued licking her neck.
+
+Meanwhile Gina had Scarlett in the doggy position, and was hotdogging her soft little buttcheeks. Between heavy breaths Scarlett responded.
+
+<div class="speech-left">
+    <img src="/characters/Scarlett-Maddox/thumb.webp">
+  "Fuck me hard you sexy little slut, both holes are yours, but your only allowed to cum in my arse, and it better be a thick load."
+</div>
+
+Gina slipped her fat pipe into Scarlett's tight teen pussy, and quickened her pase, eliciting a heavy moan from the girl. She worked hard and fast, both girls moaned loudly as Gina pumped the writhing teen rhythmically.
 
 <img class="story-pic" src="/stories/pool-party/pool-party-8.webp" />
 
+Working Scarlett to a pitch, Gina began to reach her peak.
+
+<div class="speech-right">
+    <img src="/characters/Gina-Leery/thumb.webp">
+  "Fuuuuck, I'm gonna cum, I'm gonna drop my big creamy load deep into your tight little arse"
+</div>
+
+Gina slipped out and began working her stiff member into the tight litle anal passage, it was hard work and Scarlett began to moan painfully.
+
+<div class="speech-left">
+    <img src="/characters/Scarlett-Maddox/thumb.webp">
+  "Harder bitch, make me your slave!"
+</div>
+
+Gina stood on the deck chair and pushed the girl down into it, before using her weight to slide her cock slowly into her slowly opening arse.
+
+<div class="speech-right">
+    <img src="/characters/Gina-Leery/thumb.webp">
+  "Damn straight you little cum dump, my load pumping into your guts even if I have to break you."
+</div>
+
+And with that she slid enough in and burst, groaning as she pumped hot semen into the teen's quivering back passage, Scarlett moaned loader sa she felt the cream drip into her, the fat load Gina had deposited sunk deeper into her. Gina pulled free, wiping the last little drips of cum onto the girl's slightly gaping anal ring.
+
+<div class="speech-right">
+    <img src="/characters/Gina-Leery/thumb.webp">
+  "Shit that was amazing, thats my first anal creampie, thanks for letting me empty my balls into your guts."
+</div>
+
+She admired her work and a little dribble of cum poured from Scarlett's arse.
+
+<div class="speech-left">
+    <img src="/characters/Scarlett-Maddox/thumb.webp">
+  "Anytime!"
+</div>
+
+Scarlett lay spent on the chair and enjoyed the warm feeling of Gina's cum in her.
+
+After a few more minutes of Miya's amazing tongue skills Ella was brought to orgasm, her mind melting in pleasure from the sensual onslaught of Miya's tongue.
+
+<div class="speech-right">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+  "Thanks you Miya, your as amazing as I'd heard."
+</div>
+
+<div class="speech-left">
+    <img src="/characters/Miya-Dawson/thumb.webp">
+  "Glad to hear it, my jaws a little tired, so I think my next little treat will be playing with all the cute soft bits on your little sister Ewelina."
+</div>
+
+<div class="speech-right">
+    <img src="/characters/Ewelina-Maddox/thumb.webp">
+  "You can play with any bits you like Miya."
+</div>
+
+<div class="speech-left">
+    <img src="/characters/Miya-Dawson/thumb.webp">
+  "I think I will, and Hannah, the same offer goes to you, my body is yours to play with."
+</div>
+
+Miya moved forward, pressing her soft naked chest against Ewelina's, tongue fucking her mouth as a hang slipped between her legs to tease her soft clit. Hannah shyly began groping Miya's heavy tits, before gently pressing herself into the girl's back. The trio moaned as they explored each others naked forms. Hannah licked Miya and Ewelina's nipples, and kissed their breasts, she barely had to touch herself to bring her mind wild with pleasure, faced with not one but to of the racks she'd most lusted over at school.
+
+Miya fingered another Maddox girl to orgasm, as she lustily traded spit with the girl, eventually with teh combined work of Hannah & Ewelina, they managed to bring Miya to orgasm herself, her shuddering little cries were as cute as they were arousing.
+
 <img class="story-pic" src="/stories/pool-party/pool-party-9.webp" />
+
+Miya turned to face the shy and beautiful face of Hannah
+
+<div class="speech-left">
+    <img src="/characters/Miya-Dawson/thumb.webp">
+  "Now your turn Hannah, you hot little slut."
+</div>
+
+Miya tongue fucked the pliant redhead eagerly, her hand slipped in between her legs, and Hannah shuddered energetically.
+
+<div class="speech-left">
+    <img src="/characters/Miya-Dawson/thumb.webp">
+  "Little bit of a squirmer aren't you, I do love a girl that shudders when my fingers tease her pussy lips!, Ewelina, hold her still while I pleasure her soft little body."
+</div>
+
+Miya's expert hands caressed the teens wet cavern, enjoyed the obvious waves of pleasure it was effecting on Hannah.
+
+<div class="speech-left">
+    <img src="/characters/Miya-Dawson/thumb.webp">
+  "Tell me little rose, is it true you used to have a crush on me? I won't go further until you tell me the naughtiest thoughts you've had about me."
+</div>
+
+Miya eased her tender touched, much to Hannah's dismay.
+
+<div class="speech-right">
+    <img src="/characters/Hannah-Mayorly/thumb.webp">
+    "Please don't stop!, ok, yes, I had a massive crush on you, yes I've masturbated to the though of you in the school gym kit."
+</div>
+
+Miya increased her touch, slightly.
+
+<div class="speech-left">
+    <img src="/characters/Miya-Dawson/thumb.webp">
+  "I though so, I've seen you look down my top enough times, but I'll need filthier details from you, what did I do to you, or, you did to me?"
+</div>
+
+hannah moaned louder at her touch.
+
+<div class="speech-right">
+    <img src="/characters/Hannah-Mayorly/thumb.webp">
+    "I.. I imagined you in the school showers, oiling yourself up, then coming over and pressing yourself against me, and kissing me, then you let em suck your stunning breasts, and then we 69'd."
+</div>
+
+Hannah moaned louder as Miya's pace increased, smiling at the cute girl's confession, she pressed her soft body against her skin, with ehr free hand she gently pressed her and Hannah's nipples together and rolled them softly against each other. This pulled a loud orgasmic cry from the girl, which increased as Hannah kissed her neck.
+
+<div class="speech-left">
+    <img src="/characters/Miya-Dawson/thumb.webp">
+  "if you'd told me these thoughts before we'd have done those things by now, I've had a wet dream about you too, hiding under my desk, eating me out, your very fucking hot in that gym kit as well!"
+</div>
+
+..
+
+Ella meanwhile was tongue deep in Gina.
+
+<div class="speech-right">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+  "Thats quite the tongue of yours, what else can it do?"
+</div>
+
+Ella gave Gina a passionate look, Gina bit her lip.
+
+<div class="speech-left">
+    <img src="/characters/Gina-Leery/thumb.webp">
+    "I'll show you if you sit on my face!"
+</div>
+
+Gina lay down and Ella crouched while teasing her lower lips in anticipation.
+
+<div class="speech-right">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+    "That getting you hungry?"
+</div>
+
+<div class="speech-left">
+    <img src="/characters/Gina-Leery/thumb.webp">
+    "Very!"
+</div>
+
+Ella moaned as Gina's tongue began to explore her tight young pussy, savouring it's edges and kissing her clit gently. She noticed her sister Scarlett getting up, and checking her arse, which still seemed to be dripping Gina's load.
+
+<div class="speech-right">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+    "Scarlett!, time for you to return the favour."
+</div>
+
+Ella offered, pointing at Gina's erect cock. Scarlett nodded and hoped over.
+
+<div class="speech-left">
+    <img src="/characters/Scarlett-Maddox/thumb.webp">
+    "Wait one second I'm still dripping her cum"
+</div>
+
+<div class="speech-right">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+    "Leave it, it's fucking hot, besides you'll be dripping out hte other end once Gina's done with you"
+</div>
+
+Scarlett nodded and going to her knees began to pump and lick Gina's once again hardening cock. After a few minutes she raised her head.
+
+<div class="speech-left">
+    <img src="/characters/Scarlett-Maddox/thumb.webp">
+    "So whose better me or Ewelina?"
+</div>
+
+Gina raised a hand from Ella's thigh and pointed to her sister.
+
+<div class="speech-left">
+    <img src="/characters/Scarlett-Maddox/thumb.webp">
+    "Bitch!"
+</div>
+
+<div class="speech-right">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+    "Seems you need to get back to work then slut."
+</div>
+
+Ella grabbed her younger sisters hair and pushed her down, forcing the cock deeper into her throat.
+
+<div class="speech-right">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+    "If you can't be better at technique then just be nastier!"
+</div>
+
+The rougher deep throat worked as Gina's legs shuddered in joy. Even approaching orgasm Gina managed to continue eating Ella's sweet pussy, savouring it's delightful taste, and slowly bringing the girl to orgasm.
 
 <img class="story-pic" src="/stories/pool-party/pool-party-10.webp" />
 
+With Hannah approaching orgasm, Miya guided her to the floor, instructing her and Ewelina to sit facing each other as she pleasured Hannah from behind.
+
+<div class="speech-left">
+    <img src="/characters/Miya-Dawson/thumb.webp">
+  "Ewelina, I think this is a job for four hands"
+</div>
+
+Ewelina and Miya began to pleasure both Hannah's clit and breasts, taking turns gently teasing her soft, quivering form.
+
+Ella finally reached orgasm, stepping from Gina's face to allow her to fully appreciate the view of Scarlett fellating her, and began to massage Gina's breasts and ballsack.
+
+Scarlett continued pushing the hard cock down her throat, looking up lustfully at the beautiful Gina as cock filled her mouth with lust, she couldn't help touching herself as the taste of precum swirled over her tongue. Gina watched lustfully as saliva and other juices dripped down her cock, pouring from the young teens hungering mouth.
+
+Slowly Gina approached orgasm herself.
+
 <img class="story-pic" src="/stories/pool-party/pool-party-11.webp" />
 
-<img class="story-pic" src="/stories/pool-party/pool-party-12.webp" />
+<div class="speech-right">
+    <img src="/characters/Gina-Leery/thumb.webp">
+    "I'm gonna cum soon, fuuuck, ok I want to facial the twins! they've done such an amazing shop working on my cock, they deserve a reward"
+</div>
 
-<img class="story-pic" src="/stories/pool-party/pool-party-13.webp" />
+Ewelina smiled and tagged out with her older sister who joined Hannah and Miya, wasting no time and locking lips with them both. Then both Hannah & Ella proceeded to rub themselves over Miya's thighs.
+
+Gina stood up and the two twins knelt below her pulsing cock, each giving it a soft kiss, before waiting for their gift.
+
+SUddenly she peaked and witha loud groan she painted the flood of thick white cream over the two beautiful twins knelt below her, thick warm ropes of cum fired powerfully from her cock, making a white mess of both the girls. Holding back the last of her generous load she stepped forward and placing her tongue on Ewelina's lips, spoke.
+
+<div class="speech-right">
+    <img src="/characters/Gina-Leery/thumb.webp">
+    "Congrats, this is for being one of the hottest cock suckers I know!, but don't swallow!"
+</div>
+
+Only managing to get the last word out before the last of her semen stream fired, and she emptied her shrivelling balls onto Ewelina's tongue,she stood for a moment with slowly softening tip rested on the girls lips, admiring the view of the cum slathered pair.
 
 <img class="story-pic" src="/stories/pool-party/pool-party-14.webp" />
 
+<div class="speech-right">
+    <img src="/characters/Gina-Leery/thumb.webp">
+    "Amazing! only one thing left for a perfect evening, i want you girls to clean each other and cum swap for me."
+</div>
+
+The two twins balked and looked at each other, Ewelina was unable to speak with the mouthful of cum floating around. Ella turned, surprised at herself for not being horrified she was silent for a moment before speaking.
+
+<div class="speech-left">
+    <img src="/characters/Ella-Maddox/thumb.webp">
+    "Go on, it'll be super hot"
+</div>
+
+The twins turned to their sister then back to each other, the other girls stood up to watch.
+
+<div class="speech-left">
+    <img src="/characters/Scarlett-Maddox/thumb.webp">
+    "I, I guess, it's just a kiss, plus I want to taste some cum"
+</div>
+
+Ewelina shrugged and nodded.
+
 <img class="story-pic" src="/stories/pool-party/pool-party-15.webp" />
 
+Ewelina moved forward and quickly a gentle kiss became a passionate french kiss, the twins savouring the still warm cum swishing between their tongues. Slowly Ewelina pressed her body against her sister's as they kissed further, most of the other girls, including Ella where now touching themselves.
+
+<div class="speech-right">
+    <img src="/characters/Gina-Leery/thumb.webp">
+    "Shit! You little sluts are amazing, I've never cum this hard, and I'll probably cum again the next time I think about this!"
+</div>
+
 <img class="story-pic" src="/stories/pool-party/pool-party-16.webp" />
+
+Finally pulling away, the two girls took turns cleaned each other up, hoovering up the cum off each others faces, before turning to look up and smile at a red faced and glowing Gina.
+
+<div class="speech-left">
+    <img src="/characters/Scarlett-Maddox/thumb.webp">
+    "Good party?"
+</div>
+
+<div class="speech-right">
+    <img src="/characters/Gina-Leery/thumb.webp">
+    "The best! we'll be doing this again soon"
+</div>
